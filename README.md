@@ -5,7 +5,7 @@ This repo contains our reference implementation of **ICRL** (Entropy-Minimisatio
 ---
 
 ## 1  Quick start
-#download ALL models specified in configs/icrl.yaml
+# download ALL models specified in configs/icrl.yaml
 $ bash scripts/download_model.sh
 
 # create / activate the conda env
