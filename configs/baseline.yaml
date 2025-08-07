@@ -1,0 +1,20 @@
+models:
+  - Qwen2.5-Math-1.5B
+  - Qwen2.5-Math-7B
+  - Qwen2.5-7B
+  - Qwen2.5-32B
+  - Qwen3-8B
+  - Skywork-OR1-Math-7B
+
+datasets:
+  - AIME-TTT
+  - AMC-TTT
+  - MATH-TTT
+  - GPQA-TTT
+
+# generation defaults
+k: 16
+temperature: 0.6
+top_p: 0.95
+context_len: 3072
+batch: 1
