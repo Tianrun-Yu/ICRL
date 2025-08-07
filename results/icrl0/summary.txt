@@ -1,0 +1,1 @@
+Given the current answer, extract the key reasoning steps—omitting detailed calculations—and link each step with “→” as a direct transition.
