@@ -7,6 +7,8 @@ This repo contains our reference implementation of **ICRL** (Entropy-Minimisatio
 ## 1  Quick start
 
 $ bash scripts/download_model.sh
-$ conda activate ICRL           
+
+$ conda activate ICRL          
+
 $ bash scripts/run_icrl.sh Qwen2.5-Math-7B AIME-TTT
 
